@@ -17,7 +17,7 @@ Let us assume that Alice and Bob have exchange a session *k*. Alice sends a mess
 
 # Asymmetric Cryptography
 
-Let us assume that Alice has a asymmetric key pair *(ksA, KpA)* and Bob has an asymmetric key pair (ksB, KpB) and thet they each others public key. To simplify the exercise, let us assumed that we can use these asymmetric keys to encrypt and decrypt any message of any length easily (though this is not true in practice). 
+Let us assume that Alice has a asymmetric key pair *(ksA, KpA)* and Bob has an asymmetric key pair (ksB, KpB) and then they share each others public key. To simplify the exercise, let us assumed that we can use these asymmetric keys to encrypt and decrypt any message of any length easily (though this is not true in practice). 
 
 4. Alice wishes to send a signed but not encrypted message to Bob, how does she generates the signature *s* and what does she send over to Bob? 
 
